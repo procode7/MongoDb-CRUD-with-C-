@@ -8,7 +8,7 @@ RUN mkdir /app
 WORKDIR /app
 
 #define the dependencies of application
-COPY MeteringService.csproj .
+COPY JavaAggregationServer.csproj .
 #download the required packages
 RUN dotnet restore
 
@@ -19,7 +19,4 @@ RUN dotnet publish -c Release -o out
 EXPOSE 8080/tcp
 EXPOSE 5443/tcp
 
-RUN chown -R 10001:0 /app && chmod -R og+rwx /app
-USER 10001
-
-CMD ["dotnet","out/MeteringService.dll"]
+CMD ["dotnet","out/JavaAggregationServer.dll"]
