@@ -1,0 +1,14 @@
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\bin\Debug\netcoreapp2.2\JavaAggregationServer.deps.json
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\bin\Debug\netcoreapp2.2\JavaAggregationServer.runtimeconfig.json
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\bin\Debug\netcoreapp2.2\JavaAggregationServer.runtimeconfig.dev.json
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\bin\Debug\netcoreapp2.2\JavaAggregationServer.dll
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.csprojResolveAssemblyReference.cache
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.csproj.CoreCompileInputs.cache
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.RazorAssemblyInfo.cache
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.RazorAssemblyInfo.cs
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.AssemblyInfoInputs.cache
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.AssemblyInfo.cs
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.RazorTargetAssemblyInfo.cache
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\bin\Debug\netcoreapp2.2\JavaAggregationServer.pdb
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.dll
+c:\users\jkumar79\source\repos\JavaAggregationServer\JavaAggregationServer\obj\Debug\netcoreapp2.2\JavaAggregationServer.pdb
